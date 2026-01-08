@@ -23,8 +23,8 @@ Dependencias principales del proyecto (se instalan con `requirements.txt`):
 ## ⚙️ Configuración del ambiente
 
 #### 1. Clonar el repositorio (opcional):
-- git clone https://github.com/tu-usuario/proyecto_vat.git
-- cd proyecto_vat
+- git clone https://github.com/tu-usuario/proyecto_texto_a_audio.git
+- cd proyecto_texto_a_audio
 
 #### 2. Crear el entorno virtual:
 - python -m venv venv
